@@ -1,5 +1,8 @@
 # Pelican "Coming Soon" Plugin
 
+Works with pelican==4.0.x
+> I have no plans to maintain this for pelican==4.0.x
+
 Allows to list draft posts as "coming soon" on the articles list page without any links to them
 
 ![Screenshot]
